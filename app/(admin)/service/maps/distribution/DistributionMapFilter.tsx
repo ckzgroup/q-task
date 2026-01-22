@@ -14,7 +14,7 @@ import { useSingleCustomer } from "@/actions/get-customer";
 import {Dialog, DialogContent, DialogTrigger} from "@/components/ui/dialog";
 import useAuthStore from "@/hooks/use-user"; // Assume a date picker component is available
 
-const YOUR_API_KEY = "AIzaSyAO6CcKrA0n1XTgIR6VHe-5G7P0p2KenGY";
+const YOUR_API_KEY = "AIzaSyCtzU8DKz41jajN0u6Enpn0ln1OtFKRTYE";
 
 const DEFAULT_LAT = 0.04626;
 const DEFAULT_LNG = 37.65587;
